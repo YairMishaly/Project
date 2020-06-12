@@ -1,4 +1,4 @@
- {
+ [{
     "userId": 1,
     "id": 1,
     "img": "https:\/\/picsum.photos\/200\/300",
@@ -52,3 +52,4 @@
     "img": "https:\/\/picsum.photos\/201\/301",
     "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
   }
+]
